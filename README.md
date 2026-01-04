@@ -1,4 +1,6 @@
-### 💬 Sentiment Analysis with Transformers
+# 💬 Sentiment Analysis with Transformers
+**Live Demo**
+https://sentiment-analysis-transformers-ldf9dss4zxqqdj5xvust9m.streamlit.app/
 
 This project is a **Sentiment Analysis web application** built during my Data Science training to understand and apply **Natural Language Processing (NLP) using Transformer-based models**.
 The application analyzes user-provided text and predicts whether the sentiment is Positive or Negative, along with confidence scores.
